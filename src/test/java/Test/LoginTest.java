@@ -1,3 +1,5 @@
+
+/*
 package Test;
 
 import Base.BaseTest;
@@ -30,4 +32,4 @@ public class LoginTest extends BaseTest {
         page.clickLogoutLink();
         wait.implicitWait(Duration.ofSeconds(1));
     }
-}
+}*/

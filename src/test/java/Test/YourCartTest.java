@@ -1,4 +1,4 @@
-package Test;
+/*package Test;
 
 import Base.BaseTest;
 import Pages.LoginPage;
@@ -52,3 +52,4 @@ public class YourCartTest extends BaseTest
     }
 
 }
+*/

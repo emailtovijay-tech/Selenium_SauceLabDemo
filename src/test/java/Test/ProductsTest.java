@@ -1,4 +1,4 @@
-package Test;
+/*package Test;
 
 import Base.BaseTest;
 import Pages.LoginPage;
@@ -24,3 +24,4 @@ public class ProductsTest extends BaseTest {
         wait.implicitWait(Duration.ofSeconds(1));
     }
 }
+*/

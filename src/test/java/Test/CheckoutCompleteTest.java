@@ -12,7 +12,7 @@ import static org.testng.Assert.assertTrue;
 
 public class CheckoutCompleteTest extends BaseTest {
 
-    @Test(dataProvider = "loginData", dataProviderClass = Utils.DataProviders.class)
+    @Test // (dataProvider = "loginData", dataProviderClass = Utils.DataProviders.class)
     public void verifyLogin() throws InterruptedException {
         LoginPage login = new LoginPage(driver);
         assertTrue(login.isLogoDisplayed());

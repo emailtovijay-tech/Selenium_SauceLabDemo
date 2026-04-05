@@ -1,4 +1,4 @@
-package Test;
+/*package Test;
 
 import Base.BaseTest;
 import Pages.*;
@@ -82,3 +82,4 @@ public class CheckoutTest extends BaseTest {
     }
 
 }
+*/

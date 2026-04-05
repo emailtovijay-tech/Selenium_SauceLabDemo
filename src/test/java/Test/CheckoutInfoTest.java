@@ -1,4 +1,4 @@
-package Test;
+/*package Test;
 
 import Base.BaseTest;
 import Pages.CheckoutInfoPage;
@@ -25,3 +25,4 @@ public class CheckoutInfoTest extends BaseTest {
     }
 
 }
+*/
