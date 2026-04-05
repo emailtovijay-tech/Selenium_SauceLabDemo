@@ -1,5 +1,4 @@
 package Test;
-
 import Base.BaseTest;
 import Pages.*;
 import Utils.ScrollingViewHelper;
