@@ -2,6 +2,14 @@ package Pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.devtools.DevTools;
+
+import java.time.Duration;
+import java.util.List;
+
+import static org.openqa.selenium.support.locators.RelativeLocator.with;
 
 public class CheckoutCompletePage {
     WebDriver driver;
@@ -32,6 +40,7 @@ public class CheckoutCompletePage {
     public void clickBackhomeButton()
     {
         driver.findElement(backhomeButton).click();
+
     }
 
 }
